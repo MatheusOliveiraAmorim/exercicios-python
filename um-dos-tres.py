@@ -1,0 +1,1 @@
+print("UM\nDOIS\nTRÊS")
